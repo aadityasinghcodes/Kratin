@@ -1,0 +1,41 @@
+.personalized-reminders-container {
+    background-image: url('../components/helping-hands.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+  
+  .personalized-reminders-container h2 {
+    margin-top: 0;
+  }
+  
+  .personalized-reminders-container p {
+    margin-bottom: 10px;
+  }
+  
+  .personalized-reminders-container input[type='text'] {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .personalized-reminders-container button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .personalized-reminders-container button:hover {
+    background-color: #0069d9;
+  }
+  
+  .personalized-reminders-container input[type='time'] {
+    margin-top: 10px;
+  }
+  

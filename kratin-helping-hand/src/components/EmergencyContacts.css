@@ -1,0 +1,22 @@
+.emergency-contacts-container {
+    background-image: url('../components/helping-hands.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 20px;
+  }
+  
+  .emergency-contacts-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .emergency-contacts-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .emergency-contacts-container li {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  

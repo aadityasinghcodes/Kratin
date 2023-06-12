@@ -1,0 +1,101 @@
+.medication-reminder-container {
+    background-image: url('../components/helping-hands.jpg');
+    background-size: cover;
+    background-position: center;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .medication-reminder-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .medication-reminder-container p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .medication-reminder-container input[type="time"],
+  .medication-reminder-container input[type="text"],
+  .medication-reminder-container select,
+  .medication-reminder-container button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .medication-reminder-container select {
+    height: 36px;
+  }
+  
+  .medication-reminder-container button {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .medication-reminder-container button:hover {
+    background-color: #45a049;
+  }
+  
+  .medication-reminder-container h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .medication-reminder-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .medication-reminder-container li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .medication-reminder-container li strong {
+    font-weight: bold;
+  }
+  
+  .medication-reminder-container button.edit-button,
+  .medication-reminder-container button.delete-button {
+    padding: 5px 10px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .medication-reminder-container button.edit-button {
+    background-color: #2196f3;
+    color: #fff;
+    margin-right: 5px;
+  }
+  
+  .medication-reminder-container button.edit-button:hover {
+    background-color: #0c87e4;
+  }
+  
+  .medication-reminder-container button.delete-button {
+    background-color: #f44336;
+    color: #fff;
+  }
+  
+  .medication-reminder-container button.delete-button:hover {
+    background-color: #d41e14;
+  }
+  

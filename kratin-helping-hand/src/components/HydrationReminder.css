@@ -1,0 +1,32 @@
+.hydration-reminder-container {
+    background-image: url('../components/helping-hands.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .hydration-reminder-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .hydration-reminder-container p {
+    font-size: 18px;
+  }
+  
+  
+  .Toastify__toast-container {
+    z-index: 9999;
+  }
+  
+  .Toastify__toast {
+    font-size: 16px;
+    padding: 15px;
+  }
+  
+  .Toastify__toast--info {
+    background-color: #0099ff;
+    color: #fff;
+  }
+  

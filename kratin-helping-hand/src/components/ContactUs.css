@@ -1,0 +1,34 @@
+.contact-us-container {
+  background-image: url('../components/helping-hands.jpg');
+  background-size: cover;
+  background-position: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .contact-us-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .address {
+    margin-bottom: 30px;
+  }
+  
+  .address h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .address p {
+    margin-bottom: 5px;
+  }
+  
+  .address a {
+    display: block;
+    margin-top: 10px;
+  }
+  
